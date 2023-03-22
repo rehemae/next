@@ -1,0 +1,17 @@
+{
+  "name": "KK test",
+  "short_name": "KK query",
+  "start_url": "./",
+  "orientation": "all",
+  "theme_color": "yellow",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/icon.512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "a nice text desc"
+}
